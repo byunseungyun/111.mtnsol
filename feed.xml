@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>아이엔텍</title>
+    <link>http://mtnsol.com/</link>
+    <description>인천건설폐기물,부평폐기물,대형,인천폐가구수거처리를 전문으로하는 기업입니다.</description>
+    <language>ko</language>
+    <pubDate>Mon, 17 Oct 2016 16:49:39 +0900</pubDate>
+    <generator>Jekyll v3.2.1</generator>
+    <managingEditor>아이엔텍</managingEditor>
+    
+      <item>
+        <title>아이엔텍</title>
+        <link>http://mtnsol.com/about/</link>
+        
+        	<description>
+&lt;p&gt;안녕하세요. 친환경 철거를 전문적으로 하는 아이엔텍 입니다.&lt;br /&gt;
+건물완파 및 부분철거 그리고 원상복구까지&lt;br /&gt;
+친환경 철거 전문기업 아이엔텍로 최고의 서비스를 경험해보세요.&lt;/p&gt;
+</description>
+        
+        
+        
+        <category>posts/</category>
+        <guid>http://mtnsol.com/about/</guid>
+        <pubDate>Thu, 13 Oct 2016 00:00:00 +0900</pubDate>
+        
+      </item>
+    
+  </channel>
+</rss>
